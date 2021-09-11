@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to bottom right, aqua, white, aqua, white, aqua);
+}
+
+li{
+    font-size: 20px;
+}
+marquee{
+    margin-bottom: 10px;
+    margin-top: 6px;
+    font-size: 18px;
+    color: maroon;
+    background-color:aliceblue;
+}
+h1{
+    font-family:cursive;
+    color: maroon;
+}
+#contact{
+    text-align:center;
+}
